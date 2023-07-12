@@ -33,7 +33,7 @@ I'm a developer based in Klaipeda, Lithuania. I'm currently an Informatics stude
 
 * ⚡ In my free time, you can find me reading or learning a new tech
 
-* 📱You can reach me on any my socials above
+* 📱You can reach me on any of my socials above
 
 ---
 
