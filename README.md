@@ -23,10 +23,10 @@
 
 I'm a developer based in Klaipeda, Lithuania. I'm currently an Informatics student at Klaipeda University. 
 * ### 💻 My Interests:
-   - Web technologies
-   - AI
-   - Embedded systems
-   - Web crawling
+   - Web development
+   - Iot
+   - App development
+   - UI/UX
    - DevOps.
  
 * 📌 I mostly use the go programming language for my projects
