@@ -21,15 +21,15 @@
 
 ## 👩‍💻 About Me:
 
-I'm a developer based in Klaipeda, Lithuania. I'm currently an Informatics student at Klaipeda University. 
+I'm a software developer with focus on building REST APIs and backend development. I'm currently working on my notification system and health CLI project. 
 * ### 💻 My Interests:
-   - Web development
-   - Iot
-   - App development
-   - UI/UX
-   - DevOps.
+  - Backend development
+  - Microservices
+  - CLI/TUI development
+  - Devops
+  - Game development
  
-* 📌 I mostly use the go programming language for my projects
+* 📌 I'm fluent in Go, Java and Python (I usually use them most in my projects). I know Php, Dart, Kotlin and C# (I have intermediate proficiency in these languages)
 
 * ⚡ In my free time, you can find me reading or learning a new tech
 
@@ -58,9 +58,9 @@ I'm a developer based in Klaipeda, Lithuania. I'm currently an Informatics stude
 
 ---
 
-### 🔥 My Stats:
+<!-- ### 🔥 My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=collegesoul&theme=gruvbox-duo&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=collegesoul&theme=gruvbox-duo&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats) -->
 
 <!--
 **collegesoul/collegesoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
