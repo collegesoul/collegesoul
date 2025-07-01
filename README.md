@@ -42,6 +42,7 @@ I'm a software developer with focus on building REST APIs and backend developmen
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width=70 height=70 /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=50 height=60 />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width=50 height=60/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width=50 height=60 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width=50 height=60 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width=50 height=70 />
